@@ -1,6 +1,7 @@
 # Thumbnail generator
 
 This is a basic Thumbnail generator for the Raspberry Pi Slide Show project
+
 _I will be adding the code to the slide show and its related projects in other repos over time_
 
 build and run `<name of binary> -h` for instructions
